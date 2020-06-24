@@ -10,10 +10,6 @@ This is a project proposed by Odin Project with the following features:
 > This is part of the Forms Project in The Odin Project’s JavaScript Curriculum. Find it at https://www.theodinproject.com/courses/javascript/lessons/todo-list for more details.
 
 
-## Live link
-
-* [☝ link]
-
 ## Built With ✨
 
 - JavaScript ECMA6
